@@ -3,4 +3,3 @@ target: dump-policy-bpf
 
 cmds:
   - cmd: /repo/tools/dump_policy_bpf/dump_policy_bpf
-    # filepath: /test.c
