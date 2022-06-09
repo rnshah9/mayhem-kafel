@@ -1,4 +1,4 @@
-project: rnshah9/mayhem-kafel
+project: kafel
 target: dump-policy-bpf
 
 cmds:
