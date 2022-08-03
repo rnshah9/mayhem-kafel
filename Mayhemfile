@@ -2,4 +2,4 @@ project: kafel
 target: dump-policy-bpf
 
 cmds:
-  - cmd: /repo/tools/dump_policy_bpf/dump_policy_bpf
+  - cmd: /dump_policy_bpf
